@@ -41,7 +41,7 @@ Steps to Handle and Document Sexual Harassment Incidents
 - **Witness Support**: If you witness harassment, support the victim by helping them navigate the reporting process and serving as a witness.
 - **Seek Permission**: Make sure to get the victim's permission before sharing details or reporting the incident.
 
-## 5. Determine Your Rights
+## 4. Determine Your Rights
 - **Review Policies**: Check your workplace policies to understand the procedures and protections in place.
 - **Legal Protections**: Familiarize yourself with state and federal laws to understand your rights regarding harassment.
 
